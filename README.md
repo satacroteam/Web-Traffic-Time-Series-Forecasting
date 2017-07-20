@@ -21,6 +21,9 @@ We thank Google Inc. and Voleon for sponsorship of this competition, and Oren An
 Kaggle is excited to partner with research groups to push forward the frontier of machine learning. Research competitions make use of Kaggle's platform and experience, but are largely organized by the research group's data science team. Any questions or concerns regarding the competition data, quality, or topic will be addressed by them.
 
 
+Here is a link to use the package fbprophet to forecast time series: 
+[Tuotiral fbprophet Python-R](https://facebookincubator.github.io/prophet/docs/quick_start.html#python-api)
+
 ## Results
 
 model | Public LB | Date | Script
