@@ -22,7 +22,7 @@ Kaggle is excited to partner with research groups to push forward the frontier o
 
 
 Here is a link to use the package fbprophet to forecast time series: 
-[Tuotiral fbprophet Python-R](https://facebookincubator.github.io/prophet/docs/quick_start.html#python-api)
+[Tutorial fbprophet Python-R](https://facebookincubator.github.io/prophet/docs/quick_start.html#python-api)
 
 ## Results
 
